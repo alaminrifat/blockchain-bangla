@@ -1,0 +1,62 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+/* :root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+} */
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* [data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+} */
+:root {
+  --ifm-color-primary: #4ea8de; /* Blue */
+  --ifm-color-primary-dark: #347ab7; /* Dark Blue */
+  --ifm-color-primary-darker: #266198; /* Darker Blue */
+  --ifm-color-primary-darkest: #1b486e; /* Darkest Blue */
+  --ifm-color-primary-light: #6bb8e3; /* Light Blue */
+  --ifm-color-primary-lighter: #8dc8e8; /* Lighter Blue */
+  --ifm-color-primary-lightest: #a9d6ee; /* Lightest Blue */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(78, 168, 222, 0.1); /* Blue with opacity */
+}
+
+[data-theme='dark'] {
+  /* --ifm-color-primary: #ffcc29; 
+  --ifm-color-primary-dark: #e6b626;
+  --ifm-color-primary-darker: #bf9d1e;
+  --ifm-color-primary-darkest: #997f17;
+  --ifm-color-primary-light: #ffd847; 
+  --ifm-color-primary-lighter: #ffe686;
+  --ifm-color-primary-lightest: #fff3b5;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 204, 41, 0.3);  */
+  --ifm-color-primary: #6c5ce7; /* Purple */
+  --ifm-color-primary-dark: #4b39c1; /* Dark Purple */
+  --ifm-color-primary-darker: #362fa5; /* Darker Purple */
+  --ifm-color-primary-darkest: #291e6c; /* Darkest Purple */
+  --ifm-color-primary-light: #8762fc; /* Light Purple */
+  --ifm-color-primary-lighter: #a68eff; /* Lighter Purple */
+  --ifm-color-primary-lightest: #c5a7ff; /* Lightest Purple */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(108, 92, 231, 0.1); /* Purple with opacity */
+
+}
