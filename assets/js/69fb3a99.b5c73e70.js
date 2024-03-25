@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblockchain_bangla=self.webpackChunkblockchain_bangla||[]).push([[7418],{7657:a=>{a.exports=JSON.parse('{"permalink":"/blockchain-bangla/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

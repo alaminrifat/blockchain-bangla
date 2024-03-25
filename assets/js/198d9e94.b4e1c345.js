@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblockchain_bangla=self.webpackChunkblockchain_bangla||[]).push([[4108],{4351:a=>{a.exports=JSON.parse('{"permalink":"/blockchain-bangla/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

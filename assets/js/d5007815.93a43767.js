@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblockchain_bangla=self.webpackChunkblockchain_bangla||[]).push([[1841],{2552:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/blockchain-bangla/blog/tags/hello","allTagsPath":"/blockchain-bangla/blog/tags","count":2,"unlisted":false}')}}]);
